@@ -1,6 +1,6 @@
 cask "routine" do
-  version "1.0.4"
-  sha256 "1d42ec2c861ea819b82b5c9d25f6eaff0eba5a41aa827bca7f7a2538d2b301a4"
+  version "1.0.5"
+  sha256 "a46feb75f20ac475d5cbdbf1cb913e678b83538336e666f124dff55dc2374173"
 
   url "https://github.com/box-kr/routine/releases/download/v#{version}/Routine-#{version}.zip"
   name "Routine"
